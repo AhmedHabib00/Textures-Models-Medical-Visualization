@@ -1,5 +1,12 @@
 # CG Task3
 
+Team Members:
+1) Ahmed Osama
+2) Mahmoud Ahmed Fawzy 
+3) Omar Ahmed Aboelfadl
+4) Ahmed Habib
+
+
 ## Part1
 
 1. draw a floor and put the full body on top of it.
